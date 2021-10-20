@@ -1,4 +1,4 @@
-// reference vs value
+// primitives are passed by value, objects are passed by reference
 
 const numbers = [1, 2, 3, 4, 5]
 
